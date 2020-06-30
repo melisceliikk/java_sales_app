@@ -1,5 +1,6 @@
 # java Sales App
  Project Description
+ Sales Application.Create categories, staff and products.Manage staff and the products they sell.
 
 ### Project Technology
 - ![](https://cdn1.iconfinder.com/data/icons/hawcons/32/699239-icon-13-file-java-48.png)
